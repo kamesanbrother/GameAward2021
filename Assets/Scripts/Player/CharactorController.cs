@@ -5,9 +5,10 @@ using UnityEngine;
 public class CharactorController : MonoBehaviour
 {
     /* 操作方法
-    
         移動      - 十字キー左右
         ジャンプ  - SPACE
+        
+    	ちーちーだお⊂(^ω^)⊃
     */
 
     // パラメータ
