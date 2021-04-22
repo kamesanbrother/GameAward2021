@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+
+>>>>>>> origin/develop
 # Unity generated
 [Ll]ibrary/
 [Tt]emp/
